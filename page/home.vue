@@ -3,6 +3,9 @@
 </style>
 <template>
     <div class="mdui-card-content mdui-typo">
+        <div class="mdui-hidden" id="Spider">
+            <p>这里是极光萝卜的个人主页。</p>
+        </div>
         <img src="https://cdn.jsdelivr.net/gh/ijglb/ijglb.github.io/image/avatar.jpg" class="mdui-center" style="max-width:250px;border-radius:50%;border:2px solid #ccc;">
         <h1 class="mdui-text-center">极光萝卜<small>@匚凵冂</small></h1>
         <p class="mdui-typo-subheading mdui-text-center mdui-p-t-2">
